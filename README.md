@@ -1,9 +1,11 @@
 # art
-## quines and stuff
 
 # myfirstquine.pl
 my first quine!! beautiful
 
 # lovequine.pl
 based on myfirstquine.pl.
-best viewed with `set nowrap` inside vim.
+if viewed inside vim, you should `:set nowrap`
+
+# l++
+a simple quine
