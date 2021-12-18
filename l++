@@ -1,0 +1,49 @@
+#!/usr/bin/env perl
+use utf8;binmode(STDOUT,':utf8');@m=split//,'
+ƸƠƮǨƟƞƠǷǨǭƂƸǁǉƟǯǘǂƼŚǅǃǖƟƿǳǥƷƺǡǨƸǬǅƺƻžƩƪǃǂơƠŸų
+ƭǴǎǀƒƁƃƕƚȂƼǲǃƿƼǇƮƮżƦƉǝƉƦƋƿƷƼƿǬǚưƭŸƣƢǬƃƇǜƺƉƌǀƼǲ
+ǯǫǨǎǄƮƫǄƮŝŹƉǜƋƢƟƟƟƟŰƟŪƟƟƟƟƟƟŪƟǋǋƢƢƉƟƟƘŬŬŬŬŌƟź
+źźžǾƼƯƎųųƟƟƺƋǥǮǱƉƟŰƟŪƟƟƟƟƟƟŲǦǱǤǆžƠƮǛǲƮƫƿƹŵƨǕ
+ƟƟƟųųųųƟƟşŴƱƍŰŰǛǧƱŲƹƼƮŲŮǗƨƃƊƇƋŠŶƟƘŬŬŬŬƘƪǉǌƾ
+ƂžǎƵƹǨǜżżƎƎƼƹƧƣǐƛǼĵƘŞŖŒŚƟŋōƕƠŏƒƗǱųũŞşƧƪƬƣ
+ƨƮŚǩǮǨǁźźŝŌƵƟƟşųųųſƓǀǐƸƿǆƼƹŻŷƴųƸǄųƶƻǅųƆ
+ƋżŝųųųųųųųųųǎǃǅƼǁǇųųƽǂǾǭƦƦƫƿǳǚưƭƭƉƟƟƟƟ
+ƟƟƟƟƟƟƟƣƢǳƬưƭǜǼƟƟƟƟƟǤǫǲǤǺƉƟƟƟƟųųųƵƟƟ
+ƟƓųǃǅƼǁǇŷƴǐŷƼžžǐŝųųųųųųųųųųųųųųŶŶŶ
+ŶŶŶŶŶŶŶŝųųƘƵƟƟųųųųųųƵƟƟƟųŶŶŶŶŶŝų
+ųųųųųųųųųųųųųųųųųųŶŝ
+';@m=@m[1..$#m-1];
+@t=split//,q[
+  ,ss.
+  LLLL  ,OOOOO. U      U IIIIII ,SSSS, EEEEEEE
+  LLLL  O     O U      U   II   SS     E
+  LLLL  O     O U      U   II   'SSSSs EEEE
+  LLLL  O     O U      U   II       SS E
+  LLLL  `OOOOO' `UUUUUU' IIIIII 'SSSS' EEEEEEE
+  LLLLLL  Je t'aime tropppp Louiseeeeee   LLLLs
+  `LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+                                             LLL
+   ,LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL'
+  LLLLLL
+   LLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+                            LLLLLL
+           ,LLLLLLLLLLLLLLLLLLL'
+          LLLLL
+           `LLLLLLLLLLLLLL
+                     LLLLLL
+              .LLLLLLLL
+                LLLL
+                 LL
+];#               LLLL
+            $i=0;  L ;;for
+          (grep(!/\s/,@m)){
+         $a=  chr(ord($_)-415
+        +ord($t[$i]));;if(${a}
+        eq chr 94){print join''
+        ,@m}elsif($a eq chr 38)
+         {print  join'',@t[1..
+           $#t-1.]}     else{
+             print$a}$i++}
+              ##########
+                 #####
+                   #
