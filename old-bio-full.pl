@@ -1,0 +1,1 @@
+vim +'norma i104810661012 3221162 395 976105110981010 329108211131171105011511011101110104lv$:s/\(\p\{3\}\)./\1 /g0xxx!!printf $(xargs printf \ \%o|sed s/\ /\\\\/g)o:.!perl -Xe print\ \"\\x{2764}\"kJdd:for t in split(@",'\''\zs'\'')|exe"norm a".t|redr|sl200ms|endfo|sl1|q!'
