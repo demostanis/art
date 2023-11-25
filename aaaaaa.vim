@@ -1,0 +1,1 @@
+nvim -u NONE +'norm i¿Ú#¥Ʀ$¾È ÐźŁĞXλФfor g in range(1,col('"'"'$'"'"')-1,4)|call feedkeys(g."|v".'"'"'"'"'"'."ayvc\<c-r>=nr2char(char2nr(@a)+".(g!=5?0x2fa8:0xF960).")\<cr>\<esc>:redi @b>>\<cr>ga:redi END\<cr>")|endfo' +'norm gg0cGb:%s/.\+\(..\)\n/\1/guiw:nohkdd'
